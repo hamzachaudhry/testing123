@@ -1,0 +1,1 @@
+{name:'tailingLogFile',hostname:'ad-PC',pid:5104,level:30,status:'success',msg:'',time:2015-06-19T06:33:27.901Z,v:0}
